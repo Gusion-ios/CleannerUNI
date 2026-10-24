@@ -1,0 +1,6 @@
+{
+  "name": "Cleaner - Limpiador de Galería Inteligente",
+  "description": "Limpiador de galería de imágenes estilo Tinder de alto rendimiento para Android y PC con PWA y File System Access API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
